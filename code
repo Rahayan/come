@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="" content="">
+    <title>Rahayan Web</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+  </head>
+    <body>
+<section class="hero is-link is-fullheight">
+  <div class="hero-body">
+    <div class="Copyright">
+     
+      <h1 class="title is-size-1.5"> さあみんなで戻そう。全盛期へ。</h1>
+      <p class="title is-size-6">2022年 1月25日 朝7時25分ぐらいにクアッド鯖がなくなりました。</p>
+      <p class="title is-size-6">あの鯖には結構お世話になったのでなくなったことがとても悲しいです</p>
+      <p class="title is-size-6">なので今からできるだけ同じ人を集めワイワイできるようにしていきたいのです。</p>
+      <p class="title is-size-6">7月25日夕方頃に復活させる準備を始めました。</p> 
+      <p class="title is-size-6">やるからには本気でやってきたいと思います</p>
+      <p class="title is-size-6">テスト期間なので完成できるのかは微妙ですができるだけ早く終わらせていきたいです。</p>
+      <p class="title is-size-6">徐々にやっていきたいと思います</p>
+      <a href="https://discord.gg/zyyTFxkPru" class="button is-primary">さあ。戻そう。</a>
+       
+       </body>
+         </div>
+          </html>
